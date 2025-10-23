@@ -94,7 +94,7 @@ If you like the projects, you can **support the developer**.
 All money will go to **tea for kitten Ilnazik** and **server costs** for the projects 🐾☕💻
 
 <p align="center">
-  <a href="https://www.tinkoff.ru/cf/example"><img src="https://img.shields.io/badge/Support-FF69B4?style=for-the-badge&logo=ko-fi&logoColor=white&rounded=true" alt="Support" /></a>
+  <a href="https://www.tinkoff.ru/rm/r_IpkwsnLoVw.dUnOFPVfdx/G2P3b90678"><img src="https://img.shields.io/badge/Support-FF69B4?style=for-the-badge&logo=ko-fi&logoColor=white&rounded=true" alt="Support" /></a>
 </p>
 
 ---
