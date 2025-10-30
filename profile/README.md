@@ -32,22 +32,27 @@ Here live projects, websites, and chatbots.
   <a href="https://github.com/Lemmy-VTube/website">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lemmy-VTube&repo=website&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
   </a>
-  <a href="https://github.com/Lemmy-VTube/username-changer-bot">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lemmy-VTube&repo=username-changer-bot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+  <a href="https://github.com/Lemmy-VTube/vastik-website">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lemmy-VTube&repo=vastik-website&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
   </a>
-  <a href="https://github.com/Lemmy-VTube/website">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lemmy-VTube&repo=website&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+  <a href="https://github.com/Lemmy-VTube/vastik-mobile-app">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lemmy-VTube&repo=vastik-mobile-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
   </a>
 </p>
 <p align="left">
-  <a href="https://github.com/Lemmy-VTube/website">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lemmy-VTube&repo=website&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+  <a href="https://github.com/Lemmy-VTube/vastik-manager-telegram-bot">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lemmy-VTube&repo=vastik-manager-telegram-bot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
   </a>
-  <a href="https://github.com/Lemmy-VTube/website">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lemmy-VTube&repo=website&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+  <a href="https://github.com/Lemmy-VTube/vastik-manager-discord-bot">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lemmy-VTube&repo=vastik-manager-discord-bot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
   </a>
-  <a href="https://github.com/Lemmy-VTube/website">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lemmy-VTube&repo=website&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+  <a href="https://github.com/Lemmy-VTube/vastik-manager-twitch-bot">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lemmy-VTube&repo=vastik-manager-twitch-bot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://github.com/Lemmy-VTube/username-changer-bot">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lemmy-VTube&repo=username-changer-bot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
   </a>
 </p>
 
